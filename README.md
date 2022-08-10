@@ -2,8 +2,7 @@
  I am a Data Scientist from Hawaii, but based in Indiana.
 
 
-💼 I'm currently working as a Data Scientist at Allegion, PLC in Carmel, IN.
-
+💼 I'm currently working as a Data Scientist at Mosaic Data Science
 
 🎓 I graduated from Saint Mary's College (Notre Dame, IN) in May 2019 with a B.A. in Statistical and Actuarial Math and minors in Computer Science and Business Administration.
 
