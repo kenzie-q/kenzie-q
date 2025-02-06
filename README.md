@@ -1,5 +1,5 @@
 # 👋  McKenzie Quinn
- I am a Data Scientist from Hawaii, but based in Indiana.
+ I am a Sr.Data Scientist from Hawaii, but based in Indiana.
 
 
 💼 I'm currently working as a Data Scientist at Mosaic Data Science
